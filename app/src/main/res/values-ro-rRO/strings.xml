@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AjutorPentruMuzee</string>
+    <string name="search_name">Căutare după nume</string>
+    <string name="museum_input">Scrie un nume de muzeu</string>
+    <string name="date_input">Introdu data aici</string>
+    <string name="bucket_list_button">Adauga intern</string>
+    <string name="show_bucket_list_button">Afiseaza intern</string>
+    <string name="bucket_list_button_extern">Adauga extern</string>
+    <string name="show_bucket_list_button_extern">Afiseaza extern</string>
+    <string name="title">Titlul muzeului</string>
+    <string name="description">Descrierea muzeului</string>
+    <string name="application_description">Descriere</string>
+    <string name="fragment_description">Aceasta aplicatie este facuta pentru iubitorii de muzee de arta vizuala!</string>
+    <string name="fragment_application">Cauta si alege muzeul care iti place!</string>
+    <string name="home">Acasă</string>
+    <string name="file">Fișier</string>
+    <string name="database">Baza de date</string>
+    <string name="db_nume">Muzeu</string>
+    <string name="db_tara">Tara</string>
+    <string name="db_oras">Oras</string>
+    <string name="db_nota">10</string>
+    <string name="db_insert">Inserare</string>
+    <string name="db_update">Actualizare</string>
+    <string name="db_delete">Stergere</string>
+    <string name="db_view">Vizualizare</string>
+</resources>

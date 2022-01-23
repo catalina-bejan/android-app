@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MuseumHelper</string>
+    <string name="search_name">Search by name</string>
+    <string name="museum_input">Write a museum here</string>
+    <string name="date_input">Insert date here</string>
+    <string name="bucket_list_button">Add to intern file</string>
+    <string name="show_bucket_list_button">Show intern file</string>
+    <string name="bucket_list_button_extern">Add to extern file</string>
+    <string name="show_bucket_list_button_extern">Show extern file</string>
+    <string name="title">Museum Title</string>
+    <string name="description">Museum Description</string>
+    <string name="application_description">Description</string>
+    <string name="fragment_description">This application is meant for those who love visual art museums!</string>
+    <string name="fragment_application">Search and choose the museum you like!</string>
+    <string name="home">Home</string>
+    <string name="file">File</string>
+    <string name="database">Database</string>
+    <string name="db_nume">Museum</string>
+    <string name="db_tara">Country</string>
+    <string name="db_oras">City</string>
+    <string name="db_nota">10</string>
+    <string name="db_insert">Insert</string>
+    <string name="db_update">Update</string>
+    <string name="db_delete">Delete</string>
+    <string name="db_view">View</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Museumshelfer</string>
+    <string name="search_name">Suche mit Name</string>
+    <string name="museum_input">Schreiben Sie hier ein Museum</string>
+    <string name="date_input">Datum hier einfügen</string>
+    <string name="bucket_list_button">" Zur internen Datei hinzufügen"</string>
+    <string name="show_bucket_list_button">" Interne Datei anzeigen"</string>
+    <string name="bucket_list_button_extern">" Zur externen Datei hinzufügen"</string>
+    <string name="show_bucket_list_button_extern">" Externe Datei anzeigen"</string>
+    <string name="title">" Museumstitel"</string>
+    <string name="description">" Museumsbeschreibung"</string>
+    <string name="application_description">Beschreibung</string>
+    <string name="fragment_description">Diese Anwendung ist für diejenigen gedacht, die Museen für visuelle Kunst lieben!</string>
+    <string name="fragment_application">Suchen und wählen Sie das Museum, das Sie mögen!</string>
+    <string name="home">" Zuhause"</string>
+    <string name="file">" Datei"</string>
+    <string name="database">Datenbank</string>
+    <string name="db_nume">" Museum"</string>
+    <string name="db_tara">" Land"</string>
+    <string name="db_oras">" Stadt"</string>
+    <string name="db_nota">10</string>
+    <string name="db_insert">" Einfügen"</string>
+    <string name="db_update">" Aktualisieren"</string>
+    <string name="db_delete">Löschen</string>
+    <string name="db_view">Aussicht</string>
+</resources>
